@@ -2,7 +2,7 @@
 """
 Created on Sat Jun 12 22:21:20 2021
 
-@author: KBM I-2
+@author: DELL
 """
 #PengulanganProgram
 Jwb = "y"
